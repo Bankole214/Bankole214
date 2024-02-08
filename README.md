@@ -1,5 +1,6 @@
 ### Hi there 👋
-<iframe src="https://giphy.com/embed/SSM6HdOicCahnOZ5hM" width="480" height="245" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wolfentertainment-fbi-agent-feds-SSM6HdOicCahnOZ5hM">via GIPHY</a></p>
+![Uploading image.png…]()
+
 <!--
 **Bankole214/Bankole214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
